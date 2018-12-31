@@ -1,0 +1,44 @@
+collected data
+{ 
+
+date:
+time: 
+service:
+
+reported_high:
+reported_low:
+pressure:
+rainfall:
+
+
+predicted_date:
+predicted_low:
+predicted_high:
+
+}
+
+data for a specific day
+{
+
+date:
+service:
+
+reported_high:
+reported_low:
+pressure:
+rainfall:
+
+1_day_prediction:
+   service:
+      temp_low
+      temp_high
+      pressure:
+      rainfall:
+
+   service:
+
+
+2_day_prediction
+  service:
+
+}
